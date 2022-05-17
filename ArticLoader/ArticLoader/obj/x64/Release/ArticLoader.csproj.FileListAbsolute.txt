@@ -1,0 +1,9 @@
+C:\Users\casper\Desktop\ArticLoader\ArticLoader\bin\x64\Release\ArticLoader.exe.config
+C:\Users\casper\Desktop\ArticLoader\ArticLoader\bin\x64\Release\ArticLoader.exe
+C:\Users\casper\Desktop\ArticLoader\ArticLoader\bin\x64\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\casper\Desktop\ArticLoader\ArticLoader\obj\x64\Release\ArticLoader.csproj.AssemblyReference.cache
+C:\Users\casper\Desktop\ArticLoader\ArticLoader\obj\x64\Release\ArticLoader.csproj.SuggestedBindingRedirects.cache
+C:\Users\casper\Desktop\ArticLoader\ArticLoader\obj\x64\Release\ArticLoader.csproj.CoreCompileInputs.cache
+C:\Users\casper\Desktop\ArticLoader\ArticLoader\obj\x64\Release\ArticLoader.csproj.Fody.CopyLocal.cache
+C:\Users\casper\Desktop\ArticLoader\ArticLoader\obj\x64\Release\ArticLoader.csproj.CopyComplete
+C:\Users\casper\Desktop\ArticLoader\ArticLoader\obj\x64\Release\ArticLoader.exe
